@@ -23,7 +23,7 @@ It'a a very simple python script tha creates a md5 hash in cli. Any given string
  
 ### on Ubuntu
 
-- Usually, python is already installed and at path variable
+- Usually, python is already installed and in the path variable
 - if not, you can follow this tutorial: https://python.org.br/instalacao-linux/
  
 ## Instructions
