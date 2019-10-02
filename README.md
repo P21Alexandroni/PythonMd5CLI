@@ -12,12 +12,13 @@ It'a a very simple python script tha creates a md5 hash in cli. Any given string
 
 - Donwload the Windows MSI installer at: https://www.python.org/downloads/release/python-2716/
 - Verify if the Python is added to your path variable:
- - go to computer, right click and open system properties 
- - click in advanced settings system
- - click in Environment Variables
- - Under System Variables, edit the 'PATH' variable
- - add the path of python.exe file, usually installed at: 'C:\Python27
- - click ok
+  - go to computer, right click and open system properties 
+  - click in advanced settings system
+  - click in Environment Variables
+  - Under System Variables, edit the 'PATH' variable
+  - add the path of python.exe file, usually installed at: 'C:\Python27
+  - click ok
+ - another tutorial: https://www.youtube.com/watch?v=hoc8TK96WoY
 
  
 ### on Ubuntu
