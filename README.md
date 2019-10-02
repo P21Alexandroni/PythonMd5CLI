@@ -1,6 +1,6 @@
 # PythonMd5CLI
 
-It'a a very simple python script tha creates a md5 hash in cli. Any given string, it returns the hash of a lowercase string
+It'a a very simple python script tha creates a md5 hash in cli. Any given string, it returns the hash of the given lowercase string
 
 ## Requirements
  
