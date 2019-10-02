@@ -18,7 +18,7 @@ It'a a very simple python script tha creates a md5 hash in cli. Any given string
   - Under System Variables, edit the 'PATH' variable
   - add the path of python.exe file, usually installed at: 'C:\Python27
   - click ok
- - another tutorial: https://www.youtube.com/watch?v=hoc8TK96WoY
+ - other tutorial: https://www.youtube.com/watch?v=hoc8TK96WoY
 
  
 ### on Ubuntu
